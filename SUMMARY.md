@@ -5,7 +5,9 @@
 
 ## Software Design and Development <a href="#software-des" id="software-des"></a>
 
-* [🦈 Application](software-des/application.md)
+* [🦈 Application](software-des/application/README.md)
+  * [Front-End](software-des/application/front-end.md)
+  * [Back-End](software-des/application/back-end.md)
 * [🤖 Machine Learning](software-des/machine-learning.md)
 
 ## System and Cloud Infrastructure <a href="#system-infra" id="system-infra"></a>
