@@ -14,6 +14,8 @@ However, as time went on, network segmentation through the use of VLANs was impl
 
 Over the last 10 years Cisco developed a new technology known as Cisco TrustSec® that ultimately redefined the term “network segmentation.” With Cisco TrustSec, segmentation is no longer performed based on VLANs or VRFs with IP addressing and routing. Instead, Cisco TrustSec relies on the use of role- or group-based membership, irrespective of IP addressing, to create policies allowing for segmentation of the network.
 
+Reference: [CVD - Software-Defined Access Segmentation Design Guide - May, 2018](https://www.cisco.com/c/dam/en/us/td/docs/solutions/CVD/Campus/CVD-Software-Defined-Access-Segmentation-Design-Guide-2018MAY.pdf)
+
 ### Cisco TrustSec
 
 The Cisco TrustSec solution establishes clouds of trusted network devices to build secure networks. The TrustSec solution uses the device and user identity information that it obtains during authentication to classify. The tag, also called the security group tag (SGT), allows [Cisco ISE ](sda.md#sd-access-constituent-products)to enforce access control policies by enabling the endpoint device to act upon the SGT to filter traffic. In briefly, user that in different SGT.
