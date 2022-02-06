@@ -26,14 +26,14 @@ ISE provides a matrix view of our SGT's where can decided who can talk to who, t
 
 ### Security Group
 
-| Name                | Description                                               |   |
-| ------------------- | --------------------------------------------------------- | - |
-| Employee\_HR        | SGT for employee who in Human Resource department         |   |
-| Employee\_Marketing | SGT for employee who in Marketing department              |   |
-| Employee\_Financial | SGT for employee who in Financial department              |   |
-| Employee\_IT        | SGT for employee who in Information Technology department |   |
-| Employee\_Executive | SGT for employee who in Administrative department         |   |
-| Employee\_BYOD      | SGT for employee who use BYOD                             |   |
+| Name                | Description                                               |
+| ------------------- | --------------------------------------------------------- |
+| Employee\_HR        | SGT for employee who in Human Resource department         |
+| Employee\_Marketing | SGT for employee who in Marketing department              |
+| Employee\_Financial | SGT for employee who in Financial department              |
+| Employee\_IT        | SGT for employee who in Information Technology department |
+| Employee\_Executive | SGT for employee who in Administrative department         |
+| Employee\_BYOD      | SGT for employee who use BYOD                             |
 
 ### Subnet
 
