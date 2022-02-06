@@ -14,4 +14,4 @@
 
 ### Branch Campus Network Diagram
 
-![Fibre Optic Cable UTP Cable](../../.gitbook/assets/branchd\_bg.png)
+![UTP Cable](../../.gitbook/assets/branchd\_bg.png)
