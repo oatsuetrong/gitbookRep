@@ -29,4 +29,4 @@
 
 AIS SUPER WiFi / Web portal
 
-Customer can user the AIS mobile num
+Customer can user the AIS mobile number to login .......&#x20;
