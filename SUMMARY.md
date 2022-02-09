@@ -6,7 +6,8 @@
 ## Software Design and Development <a href="#software-des" id="software-des"></a>
 
 * [🦈 Application](software-des/application/README.md)
-  * [Front-End](software-des/application/front-end.md)
+  * [Front-End](software-des/application/front-end/README.md)
+    * [Development Tools](software-des/application/front-end/development-tools.md)
   * [Back-End](software-des/application/back-end.md)
 * [🤖 Machine Learning](software-des/machine-learning.md)
 
