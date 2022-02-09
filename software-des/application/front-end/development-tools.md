@@ -16,7 +16,7 @@ Reference: [What is Adobe XD and What is it Used for?](https://www.adobe.com/th\
 
 Visual Studio Code combines the simplicity of a source code editor with powerful developer tooling, like IntelliSense code completion and debugging. First and foremost, it is an editor that gets out of your way. The delightfully frictionless edit-build-debug cycle means less time fiddling with your environment, and more time executing on your ideas. It supports macOS, Linux, and Windows.
 
-![Visual Studio Code](<../../../.gitbook/assets/image (1).png>)
+![Visual Studio Code](<../../../.gitbook/assets/image (1) (1).png>)
 
 Reference: [Why Visual Studio Code?](https://code.visualstudio.com/docs/editor/whyvscode)
 
@@ -24,6 +24,6 @@ Reference: [Why Visual Studio Code?](https://code.visualstudio.com/docs/editor/w
 
 Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites.
 
-![Bootstrap 5](<../../../.gitbook/assets/image (2).png>)
+![Bootstrap 5](<../../../.gitbook/assets/image (2) (1).png>)
 
 Reference: [What is Bootstrap (w3schools.com)](https://www.w3schools.com/whatis/whatis\_bootstrap.asp)
