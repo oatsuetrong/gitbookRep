@@ -8,7 +8,11 @@
 * [🦈 Application](software-des/application/README.md)
   * [Front-End](software-des/application/front-end/README.md)
     * [Development Tools](software-des/application/front-end/development-tools.md)
-  * [Back-End](software-des/application/back-end.md)
+    * [User Interface Design](software-des/application/front-end/user-interface-design.md)
+    * [User Flow](software-des/application/front-end/user-flow.md)
+  * [Back-End](software-des/application/back-end/README.md)
+    * [Development Tools](software-des/application/back-end/development-tools.md)
+    * [Database Schema](software-des/application/back-end/database-schema.md)
 * [🤖 Machine Learning](software-des/machine-learning.md)
 
 ## System and Cloud Infrastructure <a href="#system-infra" id="system-infra"></a>
