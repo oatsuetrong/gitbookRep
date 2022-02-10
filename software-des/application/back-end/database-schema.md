@@ -1,3 +1,3 @@
 # Database Schema
 
-![Database Schema](<../../../.gitbook/assets/image (3) (1).png>)
+![Database Schema](<../../../.gitbook/assets/image (10).png>)
