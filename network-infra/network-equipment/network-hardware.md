@@ -93,7 +93,7 @@
 
 #### Cisco DNA Center Appliance
 
-![UCS-SPR-C220M4-BA1](<../../.gitbook/assets/Screenshot 2022-02-11 161057.png>)
+![UCS-SPR-C220M4-BA1](<../../.gitbook/assets/Screenshot 2022-02-11 165815.png>)
 
 * CPU: Intel® Xeon® E5-2640 (6C, 15M Cache, 2.50 GHz, 7.20 GT/s)&#x20;
 * RAM: 16GB DDR4-2400-MHz RDIMM/PC4-19200/single rank/x4/1.2v&#x20;
