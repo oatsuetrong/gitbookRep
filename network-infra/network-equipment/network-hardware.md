@@ -8,7 +8,7 @@
 
 #### Palo Alto Networks PA-820
 
-![](https://cdn.shopify.com/s/files/1/0539/5041/5039/files/Palo\_Alto\_Networks\_Enterprise\_Firewall\_PA-820.png)
+![PAN-PA-820](https://cdn.shopify.com/s/files/1/0539/5041/5039/files/Palo\_Alto\_Networks\_Enterprise\_Firewall\_PA-820.png)
 
 * Form Factor: 1U, 19” standard rack (1.75” H x 14” D x 17.125” W)&#x20;
 * Hardware Specifications:&#x20;
@@ -25,11 +25,29 @@
   * New sessions per second: 8,100&#x20;
   * Max sessions: 128,000
 
+### VPN Router
+
+#### Cisco RV260 VPN Router
+
+![RV260-K9-G5](https://www.cisco.com/c/en/us/products/routers/rv260-vpn-router/index/jcr:content/Grid/category\_atl\_copy/layout-category-atl/anchor\_info.img.jpg/1582656333943.jpg)
+
+* Ethernet WAN : 8 x 10/100/1000 Mbps Gigabit LAN ports&#x20;
+* Ethernet LAN : 1 x RJ-45 SFP Gigabit Ethernet combination port&#x20;
+* Performance NAT throughput : 800 Mbps&#x20;
+* VPN throughput (IPSec) : 75 Mbps&#x20;
+* Capacity Virtual interfaces (VLANs) : 16&#x20;
+* Gateway to gateway IPSec VPN Tunnels : 20&#x20;
+* Concurrent sessions : 25000&#x20;
+* Jumbo Frame Support : Yes&#x20;
+* Voltage Required DC : 12 V&#x20;
+* Electric Current Required 2 A&#x20;
+* Dimension : 279.4x170x38.5 mm
+
 ### DMZ, Internal Switch
 
 #### Cisco Catalyst 9300
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 140512.png>)
+![C9300-24T-A](<../../.gitbook/assets/Screenshot 2022-02-11 140512.png>)
 
 * ​ Interfaces/Ports:&#x20;
   * Stack Port: Yes&#x20;
@@ -46,7 +64,7 @@
 
 #### Cisco Email Security Appliance C195
 
-![](https://www.ironportstore.com/images/C-Series/c195\_main.jpg)
+![ESA-C195-K9](https://www.ironportstore.com/images/C-Series/c195\_main.jpg)
 
 * Ethernet interfaces : 2-port 1GBASE-T copper network interface (NIC), RJ-45&#x20;
 * Form factor : 1 Rack Unit (1RU)&#x20;
@@ -60,7 +78,7 @@
 
 #### Cisco Content Security Management Appliance M195
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 141530.png>)
+![SMA-M195-K9](<../../.gitbook/assets/Screenshot 2022-02-11 141530.png>)
 
 * CPU: Intel® Xeon® E5-2640 (6C, 15M Cache, 2.50 GHz, 7.20 GT/s)&#x20;
 * RAM: 16GB DDR4-2400-MHz RDIMM/PC4-19200/single rank/x4/1.2v&#x20;
@@ -75,7 +93,7 @@
 
 #### Cisco DNA Center Appliance
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 161057.png>)
+![UCS-SPR-C220M4-BA1](<../../.gitbook/assets/Screenshot 2022-02-11 161057.png>)
 
 * CPU: Intel® Xeon® E5-2640 (6C, 15M Cache, 2.50 GHz, 7.20 GT/s)&#x20;
 * RAM: 16GB DDR4-2400-MHz RDIMM/PC4-19200/single rank/x4/1.2v&#x20;
@@ -88,7 +106,7 @@
 
 #### Cisco ISE Server
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 161259.png>)
+![SNS-3655-K9](<../../.gitbook/assets/Screenshot 2022-02-11 161259.png>)
 
 * Processor: Intel Xeon 2.10 GHz 4116&#x20;
 * Cores per processor: 12&#x20;
@@ -102,7 +120,7 @@
 
 #### Border Node
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 161727.png>)
+![C9300L-24UXG-4X-E](<../../.gitbook/assets/Screenshot 2022-02-11 161727.png>)
 
 * Product Code: C9300L-24UXG-4X-E&#x20;
 * Product Description: Catalyst 9300 24-port fixed uplinks UPoE, 8xmGig, 4X10G uplinks, Network Essentials&#x20;
@@ -117,7 +135,7 @@
 
 #### Edge Node
 
-![](https://www.ticaplus.com/10911/switch-cisco-catalyst-9200-48ptos4x1g-sfp-poe-net-essent.jpg)
+![C9200-48P-E](https://www.ticaplus.com/10911/switch-cisco-catalyst-9200-48ptos4x1g-sfp-poe-net-essent.jpg)
 
 * Downlinks total 10/100/1000 or PoE+ copper ports: 48 ports full PoE+&#x20;
 * Uplink configuration: Modular uplink options&#x20;
@@ -133,7 +151,7 @@
 
 #### Control Plane Node, DHCP Server, NTP Server
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 140512.png>)
+![C9300-24T-A](<../../.gitbook/assets/Screenshot 2022-02-11 140512.png>)
 
 * Interfaces/Ports:&#x20;
   * Stack Port: Yes&#x20;
@@ -148,7 +166,7 @@
 
 ### SFP Module
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 162507.png>)
+![SFP-10G-SR-S=](<../../.gitbook/assets/Screenshot 2022-02-11 162507.png>)
 
 #### Cisco 10GBASE SFP+
 
@@ -168,7 +186,7 @@
 
 #### Cisco 3504 Wireless Controller
 
-![](<../../.gitbook/assets/Screenshot 2022-02-11 162723.png>)
+![AIR-CT3504-K9](<../../.gitbook/assets/Screenshot 2022-02-11 162723.png>)
 
 * Support Cisco Access point (MAX): 150 APs&#x20;
 * Throughput: 4-Gbps&#x20;
@@ -183,7 +201,7 @@
 
 ### Access Point
 
-![](https://service.pcconnection.com/images/inhouse/8247EA64-DB6F-4809-8CF9-E1E4F62CF5F5.jpg)
+![C9105AXI-S](https://service.pcconnection.com/images/inhouse/8247EA64-DB6F-4809-8CF9-E1E4F62CF5F5.jpg)
 
 #### Cisco Catalyst 9105AX
 
@@ -197,3 +215,28 @@
 * Combined maximum data rate: 1.488 Gbps&#x20;
 * MIMO radio design: number of spatial streams: 2x2:2 MU-MIMO&#x20;
 * Maximum clients (Recommend): 40
+
+### UPS
+
+![SMT3000RMI2UC](<../../.gitbook/assets/SPD\_CENZ-AW7TQQ\_FL\_H\_520x520 (1).JPG>)
+
+#### APC Smart-UPS 3000VA Rack Mount, LCD 3000VA, 230V with SmartConnect Port
+
+* Output power capacity: 3000VA / 2700Watts&#x20;
+* Max Configurable Power (Watts): 3000VA / 2700Watts&#x20;
+* Nominal Output Voltage: 230V&#x20;
+* Topology: Line Interactive&#x20;
+* Waveform type: Sine wave&#x20;
+* Transfer Time: 6ms typical
+* Output Connections: (8) IEC 320 C13 (Battery Backup)
+
+### IP Phone
+
+![CP-3905=](https://www.cisco.com/c/dam/en/us/products/voicesw/ps6788/phones/ps7193/ps11542/3905\_large\_photo.jpg)
+
+#### Cisco Unified SIP Phone 3905
+
+* 10/100BASE-T wired Ethernet LAN port plus switched PC port&#x20;
+* 4-MB flash memory&#x20;
+* 32-MB synchronous dynamic RAM (SDRAM)&#x20;
+* Thai language support (Thailand)
