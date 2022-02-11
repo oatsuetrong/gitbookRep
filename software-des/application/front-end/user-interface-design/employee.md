@@ -30,7 +30,7 @@
 
 ### 4.2 For other staffs
 
-![Customer Information Page for other staffs](<../../../../.gitbook/assets/image (5).png>)
+![Customer Information Page for other staffs](<../../../../.gitbook/assets/image (5) (1).png>)
 
 ## 5. Requesting for a Loan Page
 
