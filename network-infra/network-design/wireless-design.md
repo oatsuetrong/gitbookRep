@@ -27,6 +27,6 @@
 
 ![802.1x Workflow](https://www.securew2.com/wp-content/uploads/2021/12/what-is-ieee.svg)
 
-AIS SUPER WiFi / Web portal
+[AIS SUPER WiFi](https://www.ais.th/wifi/howto-wifi.html) / Web portal
 
 Customer can user the AIS mobile number to login .......&#x20;
