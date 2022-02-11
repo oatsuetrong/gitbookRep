@@ -32,7 +32,7 @@
   * [Topology](network-infra/network-design/topology.md)
   * [Diagram](network-infra/network-design/diagram.md)
   * [Floor Plan](network-infra/network-design/floor-plan.md)
-  * [Page 1](network-infra/network-design/page-1.md)
+  * [ISP](network-infra/network-design/isp.md)
   * [Network Segmentation and Subnet](network-infra/network-design/network-segmentation-and-subnet.md)
   * [Mail Server](network-infra/network-design/mail-server.md)
   * [Wireless Design](network-infra/network-design/wireless-design.md)
