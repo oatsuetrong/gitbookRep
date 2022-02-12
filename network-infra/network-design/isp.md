@@ -7,7 +7,7 @@ description: Internet Service Provider
 **Internet load balancing** is defined as the method of splitting Internet traffic over 2 or more Internet connections to provide primarily two desired outcomes:
 
 1. Better Internet and therefore end-user performance.
-2. Increased reliability of the Internet connectivity
+2. Increased reliability of the Internet connectivity.
 
 Reference: [Internet Load Balancing - What to look for in Internet load balancers](https://www.mushroomnetworks.com/blog/internet-load-balancing-what-to-look-for-in-internet-load-balancers/)
 
