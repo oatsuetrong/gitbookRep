@@ -5,8 +5,8 @@
 ### Floor 1
 
 * Reception room - for customer who come to contact our bank. &#x20;
-* Customer service area -&#x20;
-* Conference room -&#x20;
+* Customer service area - for customer who come to contact our bank. &#x20;
+* Conference room - for employee meeting or meeting for each department.
 * VIP room - for important customer who doing business together for a long time or having a large amount of money invested with the company.
 
 ![](<../../.gitbook/assets/Screenshot 2022-02-12 214537.png>)
