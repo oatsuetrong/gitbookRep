@@ -2,6 +2,10 @@
 
 ## Campus Floorplan Heatmap
 
+#### Heatmap signal indicator
+
+![-30dBm to -65 dBm](<../../.gitbook/assets/Screenshot 2022-02-12 230047.png>)
+
 ### Floor 1 - Headquarter Campus
 
 ![](../../.gitbook/assets/HQ-F1.PNG)
