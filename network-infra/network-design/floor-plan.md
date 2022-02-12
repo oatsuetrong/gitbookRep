@@ -41,3 +41,13 @@ This floor is contain:
 * Server room
 
 ![](<../../.gitbook/assets/Screenshot 2022-02-12 215631.png>)
+
+## Branch Campus
+
+### Floor 1
+
+The department that located in Branch which have IT department and Finance department. We design CCTV and Server in the same room.&#x20;
+
+The room which are in the branch include: Conference room and Manager room.&#x20;
+
+![](<../../.gitbook/assets/Screenshot 2022-02-12 220118 (1).png>)
