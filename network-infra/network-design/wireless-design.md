@@ -4,13 +4,23 @@
 
 ### Floor 1 - Headquarter Campus
 
+![](../../.gitbook/assets/HQ-F1.PNG)
+
 ### Floor 2 - Headquarter Campus
+
+![](../../.gitbook/assets/HQ-F2.PNG)
 
 ### Floor 3 - Headquarter Campus
 
+![](../../.gitbook/assets/HQ-F3.PNG)
+
 ### Floor 4 - Headquarter Campus
 
+![](../../.gitbook/assets/HQ-F4.PNG)
+
 ### Floor 1 - Branch Campus
+
+![](../../.gitbook/assets/Branchpic.PNG)
 
 ## WLAN SSID
 
