@@ -33,12 +33,14 @@
 
 ### Authentication Method
 
-#### [What is IEEE 802.1X](https://www.securew2.com/solutions/802-1x#:\~:text=802.1X%20is%20a%20network,confirmed%20by%20the%20RADIUS%20server.)
+#### [IEEE 802.1X](https://www.securew2.com/solutions/802-1x#:\~:text=802.1X%20is%20a%20network,confirmed%20by%20the%20RADIUS%20server.)
 
 802.1x - it has an authentication server called a RADIUS Server. It checks a user's credentials to see if they are an active member of the organization and, depending on the network policies, grants users varying levels of access to the network. This allows unique credentials or certificates to be used per user, eliminating the reliance on a single network password that can be easily stolen. User in organization can login via Cisco AnyConnect software on a PC/Laptop by using their employee number and password to access the organization network.
 
 ![802.1x Workflow](https://www.securew2.com/wp-content/uploads/2021/12/what-is-ieee.svg)
 
-[AIS SUPER WiFi](https://www.ais.th/wifi/howto-wifi.html) / Web portal
+#### Web portal
 
-Customer can user the AIS mobile number to login .......&#x20;
+Customer who come to contact the bank can use AIS mobile number to login with Wi-Fi SSID name **.@ AIS SUPER WiFi** and **AIS SMART Login**.
+
+![AIS Wi-Fi Web portal login page](<../../.gitbook/assets/IMG\_2418\_iphone13blue\_portrait (1) (1).png>)
