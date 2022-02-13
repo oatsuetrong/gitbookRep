@@ -262,7 +262,7 @@ This table combine organization network equipment that installed from Headquarte
 | Control Plane Node Switch     |    1 |      105,300 |            105,300 |
 | SFP+ modules                  |   12 |       10,900 |            130,800 |
 | Wireless Controller           |    1 |       73,000 |             73,000 |
-| Access Point                  |   13 |       12,800 |            166,400 |
+| Access Point                  |   16 |       12,800 |            204,800 |
 | UPS                           |    2 |       52,500 |            105,000 |
 | IP Phone                      |   80 |        1,990 |            159,200 |
 
