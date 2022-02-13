@@ -15,7 +15,6 @@
       * [Employee](software-des/application/front-end/user-flow/employee.md)
       * [Customer](software-des/application/front-end/user-flow/customer.md)
   * [Back-End](software-des/application/back-end/README.md)
-    * [Development Tools](software-des/application/back-end/development-tools.md)
     * [Database Schema](software-des/application/back-end/database-schema.md)
 * [🤖 Machine Learning](software-des/machine-learning.md)
 
