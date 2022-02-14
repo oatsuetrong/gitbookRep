@@ -58,6 +58,7 @@
 * [🔨 Office Tools](system-infra/office-tools.md)
   * [Pricing](system-infra/office-tools/pricing.md)
 * [Deployment](system-infra/deployment.md)
+* [Pricing](system-infra/pricing.md)
 
 ## Network Infrastructure <a href="#network-infra" id="network-infra"></a>
 
