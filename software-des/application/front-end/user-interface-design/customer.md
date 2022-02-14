@@ -6,8 +6,8 @@
 
 ## 2. Dashboard Page
 
-![Dashboard Page for customers](<../../../../.gitbook/assets/image (11) (1) (1).png>)
+![Dashboard Page for customers](<../../../../.gitbook/assets/image (11) (1) (1) (1).png>)
 
 ## 3. Payment Page
 
-![Payment Page for customers](<../../../../.gitbook/assets/image (6) (1) (1).png>)
+![Payment Page for customers](<../../../../.gitbook/assets/image (6) (1) (1) (1).png>)

@@ -8,7 +8,7 @@
 
 Diagrams.net (formerly draw.io) is free online diagram software. You can use it as a flowchart maker, network diagram software, to create UML online, as an ER diagram tool, to design database schema, to build BPMN online, as a circuit diagram maker, and more.
 
-![Diagrams.net (draw.io)](<../../../.gitbook/assets/image (12) (1) (1) (1).png>)
+![Diagrams.net (draw.io)](<../../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
 Reference:  [https://app.diagrams.net/](https://app.diagrams.net)
 
