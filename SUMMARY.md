@@ -25,6 +25,7 @@
 * [☁ Huawei Cloud](system-infra/huawei-cloud.md)
   * [Elastic Cloud Server](system-infra/huawei-cloud/elastic-cloud-server/README.md)
     * [Elastic cloud server for ML​](system-infra/huawei-cloud/elastic-cloud-server/elastic-cloud-server-for-ml.md)
+    * [Elastic cloud server for website](system-infra/huawei-cloud/elastic-cloud-server/elastic-cloud-server-for-website.md)
   * [Application](system-infra/huawei-cloud/application.md)
   * [Storage](system-infra/huawei-cloud/storage.md)
   * [Networking](system-infra/huawei-cloud/networking.md)
