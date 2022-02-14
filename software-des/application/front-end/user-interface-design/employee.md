@@ -26,7 +26,7 @@
 
 ### 4.1 For Help Desk
 
-![Customer Information Page for Help Desk](<../../../../.gitbook/assets/image (4).png>)
+![Customer Information Page for Help Desk](<../../../../.gitbook/assets/image (4) (1).png>)
 
 ### 4.2 For other staffs
 
@@ -42,5 +42,5 @@
 
 ## 7. Log History Page
 
-![Log History Page](<../../../../.gitbook/assets/image (13) (1) (1).png>)
+![Log History Page](<../../../../.gitbook/assets/image (13) (1) (1) (1).png>)
 
