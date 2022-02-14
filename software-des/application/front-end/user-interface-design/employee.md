@@ -42,5 +42,5 @@
 
 ## 7. Log History Page
 
-![Log History Page](<../../../../.gitbook/assets/image (13).png>)
+![Log History Page](<../../../../.gitbook/assets/image (13) (1).png>)
 

@@ -1,2 +1,0 @@
-# Elastic Cloud Server
-
