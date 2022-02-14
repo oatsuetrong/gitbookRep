@@ -38,7 +38,7 @@
 
 ## 6. Admin Page
 
-![Admin Page](<../../../../.gitbook/assets/image (1) (1).png>)
+![Admin Page](<../../../../.gitbook/assets/image (1) (1) (1).png>)
 
 ## 7. Log History Page
 
