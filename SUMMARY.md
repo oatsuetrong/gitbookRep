@@ -55,6 +55,7 @@
     * [Cloud Container Engine](system-infra/huawei-cloud/compute/cloud-container-engine.md)
 * [💵 Payment Gateway](system-infra/payment.md)
   * [Pricing](system-infra/payment/pricing.md)
+  * [User Manual](system-infra/payment/user-manual.md)
 * [🔨 Office Tools](system-infra/office-tools.md)
   * [Pricing](system-infra/office-tools/pricing.md)
 * [Deployment](system-infra/deployment.md)

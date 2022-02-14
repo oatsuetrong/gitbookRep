@@ -20,7 +20,7 @@
 
 ## 3. Adding Customer Page
 
-![Adding Customer Page](<../../../../.gitbook/assets/image (14).png>)
+![Adding Customer Page](<../../../../.gitbook/assets/image (14) (1).png>)
 
 ## 4. Customer Information Page
 
