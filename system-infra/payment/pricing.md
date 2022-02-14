@@ -6,4 +6,4 @@ description: >-
 
 # Pricing
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)

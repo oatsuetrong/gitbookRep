@@ -27,8 +27,11 @@
   * [Application](system-infra/huawei-cloud/application.md)
   * [Storage](system-infra/huawei-cloud/storage.md)
   * [Networking](system-infra/huawei-cloud/networking.md)
-  * [Page 3](system-infra/huawei-cloud/page-3.md)
-* [🔨 Office Tools](system-infra/office-tools.md)
+  * [Database](system-infra/huawei-cloud/database.md)
+  * [Management & Governance​](system-infra/huawei-cloud/management-and-governance.md)
+  * [Security & Compliance](system-infra/huawei-cloud/security-and-compliance.md)
+* [🔨 Office Tools](system-infra/office-tools/README.md)
+  * [Pricing](system-infra/office-tools/pricing.md)
 * [💵 Payment Gateway](system-infra/payment.md)
   * [Pricing](system-infra/payment/pricing.md)
 

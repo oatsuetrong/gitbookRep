@@ -16,7 +16,7 @@
 
 ### 2.3 For manager
 
-![Dashboard Page for manager](<../../../../.gitbook/assets/image (7) (1).png>)
+![Dashboard Page for manager](<../../../../.gitbook/assets/image (7) (1) (1).png>)
 
 ## 3. Adding Customer Page
 
