@@ -30,10 +30,10 @@
   * [Database](system-infra/huawei-cloud/database.md)
   * [Management & Governance​](system-infra/huawei-cloud/management-and-governance.md)
   * [Security & Compliance](system-infra/huawei-cloud/security-and-compliance.md)
-* [🔨 Office Tools](system-infra/office-tools.md)
-  * [Pricing](system-infra/office-tools/pricing.md)
 * [💵 Payment Gateway](system-infra/payment.md)
   * [Pricing](system-infra/payment/pricing.md)
+* [🔨 Office Tools](system-infra/office-tools.md)
+  * [Pricing](system-infra/office-tools/pricing.md)
 
 ## Network Infrastructure <a href="#network-infra" id="network-infra"></a>
 
