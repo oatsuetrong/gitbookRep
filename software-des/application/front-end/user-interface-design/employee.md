@@ -12,7 +12,7 @@
 
 ### 2.2 For others staffs
 
-![Dashboard Page for other staffs](<../../../../.gitbook/assets/image (3).png>)
+![Dashboard Page for other staffs](<../../../../.gitbook/assets/image (3) (1).png>)
 
 ### 2.3 For manager
 
