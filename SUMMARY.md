@@ -53,6 +53,8 @@
       * [Elastic cloud server for website](system-infra/huawei-cloud/compute/elastic-cloud-server/elastic-cloud-server-for-website.md)
     * [Auto Scaling](system-infra/huawei-cloud/compute/auto-scaling.md)
     * [Cloud Container Engine](system-infra/huawei-cloud/compute/cloud-container-engine.md)
+  * [Cloud Communications](system-infra/huawei-cloud/cloud-communications/README.md)
+    * [Message & SMS Service​](system-infra/huawei-cloud/cloud-communications/message-and-sms-service.md)
 * [💵 Payment Gateway](system-infra/payment.md)
   * [Pricing](system-infra/payment/pricing.md)
   * [User Manual](system-infra/payment/user-manual.md)

@@ -20,7 +20,7 @@
 
 ## 3. Adding Customer Page
 
-![Adding Customer Page](<../../../../.gitbook/assets/image (14) (1).png>)
+![Adding Customer Page](<../../../../.gitbook/assets/EMP-Cus inf.png>)
 
 ## 4. Customer Information Page
 
@@ -34,7 +34,7 @@
 
 ## 5. Requesting for a Loan Page
 
-![Requesting for a Loan Page](<../../../../.gitbook/assets/image (9) (1) (1).png>)
+![Requesting for a Loan Page](<../../../../.gitbook/assets/EMP-Request Loan Form.png>)
 
 ## 6. Admin Page
 
