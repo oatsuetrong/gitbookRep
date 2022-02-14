@@ -7,20 +7,22 @@
 
 * [🦈 Application](software-des/application/README.md)
   * [Front-End](software-des/application/front-end/README.md)
-    * [Development Tools](software-des/application/front-end/development-tools.md)
     * [User Interface Design](software-des/application/front-end/user-interface-design/README.md)
       * [Employee](software-des/application/front-end/user-interface-design/employee.md)
       * [Customer](software-des/application/front-end/user-interface-design/customer.md)
     * [User Flow](software-des/application/front-end/user-flow/README.md)
       * [Employee](software-des/application/front-end/user-flow/employee.md)
       * [Customer](software-des/application/front-end/user-flow/customer.md)
+    * [Development Tools](software-des/application/front-end/development-tools.md)
   * [Back-End](software-des/application/back-end/README.md)
     * [Database Schema](software-des/application/back-end/database-schema.md)
 * [🤖 Machine Learning](software-des/machine-learning.md)
 
 ## System and Cloud Infrastructure <a href="#system-infra" id="system-infra"></a>
 
-* [☁ Huawei Cloud](system-infra/huawei-cloud.md)
+* [Page 1](system-infra/page-1.md)
+* [☁ Huawei Cloud](system-infra/huawei-cloud/README.md)
+  * [Elastic Cloud Server](system-infra/huawei-cloud/elastic-cloud-server.md)
 * [🔨 Office Tools](system-infra/office-tools.md)
 * [💵 Payment Gateway](system-infra/payment.md)
 

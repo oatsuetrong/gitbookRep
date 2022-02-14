@@ -34,7 +34,7 @@
 
 ## 5. Requesting for a Loan Page
 
-![Requesting for a Loan Page](<../../../../.gitbook/assets/image (9) (1).png>)
+![Requesting for a Loan Page](<../../../../.gitbook/assets/image (9) (1) (1).png>)
 
 ## 6. Admin Page
 
