@@ -1,3 +1,3 @@
-# Page 2
+# Pricing
 
 ![](<../../.gitbook/assets/image (7).png>)

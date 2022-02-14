@@ -24,8 +24,8 @@
 * [☁ Huawei Cloud](system-infra/huawei-cloud.md)
   * [Elastic Cloud Server](system-infra/huawei-cloud/elastic-cloud-server.md)
 * [🔨 Office Tools](system-infra/office-tools.md)
-* [💵 Payment Gateway](system-infra/payment/README.md)
-  * [Page 2](system-infra/payment/page-2.md)
+* [💵 Payment Gateway](system-infra/payment.md)
+  * [Pricing](system-infra/payment/pricing.md)
 
 ## Network Infrastructure <a href="#network-infra" id="network-infra"></a>
 
