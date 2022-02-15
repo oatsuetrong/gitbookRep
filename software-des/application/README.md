@@ -1,5 +1,7 @@
 ---
-description: Responsive Web Application
+description: >-
+  Responsive Web Application using HTML, CSS, JavaScript as Client-Side
+  Languages and MySQL, PHP as Server-Side Languages
 ---
 
 # 🦈 Application

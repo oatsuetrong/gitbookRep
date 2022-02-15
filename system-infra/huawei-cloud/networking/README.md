@@ -2,7 +2,7 @@
 
 ## Virtual Private Cloud​
 
-Virtual Private Cloud (VPC) enables you to create a secure, private, and isolated virtual network. You can customize IP address ranges, subnets, security groups, and bandwidths, and assign Elastic IP
+Virtual Private Cloud (VPC) enables you to create a secure, private, and isolated virtual network. You can customize IP address ranges, subnets, security groups, and bandwidths, and assign Elastic IP.
 
 ## Elastic IP
 
@@ -20,6 +20,6 @@ Virtual Private Network (VPN) establishes a secure, encrypted communication tunn
 
 A public NAT gateway allows cloud servers in a VPC to share EIPs for Internet access, which keeps costs down while also improving security by hiding your servers behind EIPs. A private NAT gateway translates IP addresses between your VPC and your on-premises data center or another VPC, allowing you to keep legacy networks unchanged after migrating some of your workloads to the cloud.
 
-## Domain Name service
+## Domain Name Service
 
 Domain Name Service (DNS) is a highly available and scalable authoritative DNS service that translates domain names into IP addresses, reliably directing end users to your applications.

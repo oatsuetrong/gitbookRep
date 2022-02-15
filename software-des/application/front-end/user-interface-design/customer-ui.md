@@ -1,8 +1,12 @@
-# Customer
+---
+description: User Interfaces for customers
+---
+
+# Customer UI
 
 ## 1. Login Page
 
-![Login Page for customers](<../../../../.gitbook/assets/image (8) (1) (1).png>)
+![Login Page for customers](<../../../../.gitbook/assets/image (8) (1) (1) (1).png>)
 
 ## 2. Dashboard Page
 

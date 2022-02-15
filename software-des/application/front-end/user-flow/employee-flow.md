@@ -1,3 +1,7 @@
+---
+description: Flow that employees have to meet when they do some actions
+---
+
 # Employee Flow
 
 ## 1. Add Customer
@@ -8,13 +12,13 @@ If the employee want to add the customer to our system, first they need to login
 
 ## 2. See & Edit Customer's Information
 
-### For Help Desk
+### 2.1 For Help Desk
 
 ![See & Edit Customer's Information flow for Help Desk](<../../../../.gitbook/assets/image (14) (1) (1).png>)
 
 If the Help Desk want to see and edit the customer information in our system, first they need to login and then it will bring the Help Desk to the Dashboard page. After that, the Help Desk need to click at the customer's name and it will show the Customer Information Form that have the information. They can see and edit it.
 
-### For other staffs
+### 2.2 For other staffs
 
 ![See Customer Information & Machine Learning Suggestion flow for other staffs](<../../../../.gitbook/assets/image (16) (1).png>)
 
@@ -40,13 +44,13 @@ If the employee want to approve or reject loan, first they need to login and the
 
 ## 6. See Summary of the company
 
-### For other staffs
+### 6.1 For other staffs
 
 ![See Summary of the company flow for other staffs](<../../../../.gitbook/assets/image (9).png>)
 
 If the other staffs want to see the summary of the company, first they need to login and then it will bring the other staffs to the Dashboard page. After that, the other staffs need to click at **Summary** on the side menu and it will show the summary of the company.
 
-### For manager
+### 6.2 For manager
 
 ![See Summary of the company flow for manager](<../../../../.gitbook/assets/image (3).png>)
 
@@ -60,13 +64,13 @@ If the manager want to change the employees' role, first they need to login and 
 
 ## 8. See Log History
 
-### For other staffs
+### 8.1 For other staffs
 
 ![See Log History flow for other staffs](<../../../../.gitbook/assets/image (10).png>)
 
 If the other staffs want to log history, first they need to login and then it will bring the other staffs to the Dashboard page. After that, the other staffs need to click at **Log History** on the side menu and it will show the log history of our system.
 
-### For manager
+### 8.2 For manager
 
 ![See Log History flow for manager](<../../../../.gitbook/assets/image (11).png>)
 

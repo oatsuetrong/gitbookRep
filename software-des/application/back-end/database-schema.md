@@ -1,3 +1,7 @@
+---
+description: Our Database Schema for using with our application
+---
+
 # Database Schema
 
 ![Database Schema](<../../../.gitbook/assets/image (1) (1).png>)

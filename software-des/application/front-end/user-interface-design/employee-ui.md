@@ -1,3 +1,7 @@
+---
+description: User Interfaces for employees
+---
+
 # Employee UI
 
 ## 1. Login Page
@@ -47,4 +51,3 @@
 ## 8. Log History Page
 
 ![Log History Page](<../../../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
-

@@ -1,5 +1,5 @@
 ---
-description: we use omise as payment gateway for customer pay off debt
+description: We use omise as payment gateway for customer pay off debt
 ---
 
 # 💵 Payment Gateway

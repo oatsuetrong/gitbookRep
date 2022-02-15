@@ -1,6 +1,6 @@
 ---
 description: >-
-  We are use Logistic Regression from sklearn.linear_model package. Here is the
+  We use Logistic Regression from sklearn.linear_model package. Here is the
   little information about Logistic Regression .​
 ---
 
