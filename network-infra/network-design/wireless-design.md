@@ -4,7 +4,7 @@
 
 #### Heatmap signal indicator
 
-![-30dBm to -65 dBm](<../../.gitbook/assets/Screenshot 2022-02-12 230047.png>)
+![-30 dBm to -65 dBm](<../../.gitbook/assets/Screenshot 2022-02-12 230047.png>)
 
 ### Floor 1 - Headquarter Campus
 
