@@ -2,7 +2,7 @@
 
 ## 1. Login Page
 
-![Login Page for all employees](<../../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png>)
+![Login Page for all employees](<../../../../.gitbook/assets/image (12) (1) (1) (1) (1).png>)
 
 ## 2. Dashboard Page
 
@@ -44,5 +44,5 @@
 
 ## 8. Log History Page
 
-![Log History Page](<../../../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)
+![Log History Page](<../../../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
 

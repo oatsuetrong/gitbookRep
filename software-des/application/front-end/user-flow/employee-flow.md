@@ -8,7 +8,7 @@
 
 ### For Help Desk
 
-![See & Edit Customer's Information flow for Help Desk](<../../../../.gitbook/assets/image (14).png>)
+![See & Edit Customer's Information flow for Help Desk](<../../../../.gitbook/assets/image (14) (1).png>)
 
 ### For other staffs
 
@@ -16,7 +16,7 @@
 
 ## 3. Request Loan
 
-![Request Loan](<../../../../.gitbook/assets/image (15).png>)
+![Request Loan](<../../../../.gitbook/assets/image (15) (1).png>)
 
 ## 4. Edit & Remove Loan
 

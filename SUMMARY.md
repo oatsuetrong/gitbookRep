@@ -16,7 +16,14 @@
       * [Customer Flow](software-des/application/front-end/user-flow/customer-flow.md)
   * [Back-End](software-des/application/back-end/README.md)
     * [Database Schema](software-des/application/back-end/database-schema.md)
-* [🤖 Machine Learning](software-des/machine-learning.md)
+* [🤖 Machine Learning](software-des/machine-learning/README.md)
+  * [Getting the system ready and loading the data](software-des/machine-learning/getting-the-system-ready-and-loading-the-data.md)
+  * [Model Building](software-des/machine-learning/model-building/README.md)
+    * [Classification](software-des/machine-learning/model-building/classification/README.md)
+      * [Logistic Regression](software-des/machine-learning/model-building/classification/logistic-regression.md)
+      * [Decision Tree](software-des/machine-learning/model-building/classification/decision-tree.md)
+      * [Random Forest](software-des/machine-learning/model-building/classification/random-forest.md)
+  * [Feature Engineering](software-des/machine-learning/feature-engineering.md)
 
 ## System and Cloud Infrastructure <a href="#system-infra" id="system-infra"></a>
 
