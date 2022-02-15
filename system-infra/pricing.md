@@ -1,4 +1,4 @@
-# Pricing
+# 💲 Pricing
 
 * ECS for ML price 64.512 USD per year/ ECS​
 * ECS for web application price 515.20 USD per year/ ECS \* 4 = 2,060.8 USD​
