@@ -23,7 +23,7 @@
       * [Logistic Regression](software-des/machine-learning/model-building/classification/logistic-regression.md)
       * [Decision Tree](software-des/machine-learning/model-building/classification/decision-tree.md)
       * [Random Forest](software-des/machine-learning/model-building/classification/random-forest.md)
-  * [Feature Engineering](software-des/machine-learning/feature-engineering.md)
+  * [Deploy Model](software-des/machine-learning/deploy-model.md)
 
 ## System and Cloud Infrastructure <a href="#system-infra" id="system-infra"></a>
 
