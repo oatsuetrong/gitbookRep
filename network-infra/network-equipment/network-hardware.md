@@ -245,24 +245,28 @@
 
 ## Network Equipment Price Summation
 
-This table combine organization network equipment that installed from Headquarter and Branch.
+This table combine organization network equipment list that installed from Headquarter and Branch.
 
-| Network Device Category       | Unit | Price (Baht) | Total Price (Baht) |
-| ----------------------------- | ---: | -----------: | -----------------: |
-| Firewall                      |    3 |      160,615 |            481,845 |
-| VPN Router                    |    1 |        9,920 |              9,920 |
-| Internal Zone Switch          |    1 |       68,900 |             68,900 |
-| DMZ Switch                    |    1 |       68,900 |             68,900 |
-| Email Security Appliance      |    1 |   162,843.45 |         162,843.45 |
-| Security Management Appliance |    1 |   293,090.31 |         293,090.31 |
-| DNA Center Appliance          |    1 |      214,000 |            214,000 |
-| ISE Server                    |    1 |   190,694.54 |         190,694.54 |
-| Border Node Switch            |    2 |      180,000 |            360,000 |
-| Edge Node Switch              |    4 |      119,800 |            479,200 |
-| Control Plane Node Switch     |    1 |      105,300 |            105,300 |
-| SFP+ modules                  |   12 |       10,900 |            130,800 |
-| Wireless Controller           |    1 |       73,000 |             73,000 |
-| Access Point                  |   16 |       12,800 |            204,800 |
-| UPS                           |    2 |       52,500 |            105,000 |
-| IP Phone                      |   80 |        1,990 |            159,200 |
+| Network Device Category             | Unit | Price (Baht) | Total Price (Baht) |
+| ----------------------------------- | ---: | -----------: | -----------------: |
+| Firewall                            |    3 |      160,615 |            481,845 |
+| VPN Router                          |    1 |        9,920 |              9,920 |
+| Internal Zone Switch                |    1 |       68,900 |             68,900 |
+| DMZ Switch                          |    1 |       68,900 |             68,900 |
+| Email Security Appliance            |    1 |   162,843.45 |         162,843.45 |
+| Security Management Appliance       |    1 |   293,090.31 |         293,090.31 |
+| DNA Center Appliance                |    1 |      214,000 |            214,000 |
+| ISE Server                          |    1 |   190,694.54 |         190,694.54 |
+| Border Node Switch                  |    2 |      180,000 |            360,000 |
+| Edge Node Switch                    |    4 |      119,800 |            479,200 |
+| Control Plane Node Switch           |    1 |      105,300 |            105,300 |
+| SFP+ modules                        |   12 |       10,900 |            130,800 |
+| Wireless Controller                 |    1 |       73,000 |             73,000 |
+| Access Point                        |   16 |       12,800 |            204,800 |
+| UPS                                 |    2 |       52,500 |            105,000 |
+| IP Phone                            |   80 |        1,990 |            159,200 |
+| Face Recognition                    |    2 |       24,999 |             49,998 |
+| CCTV 16 Cameras + Installation cost |    1 |       53,000 |             53,000 |
+| CCTV 8 Cameras + Installation cost  |    1 |       26,900 |             26,900 |
 
+**Summation Price:** 3,237,391.30 Baht
