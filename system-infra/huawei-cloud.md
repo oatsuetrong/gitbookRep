@@ -1,5 +1,8 @@
 ---
 description: Provides Stable, Reliable, Secure and Sustainably Growing Cloud Services.
+cover: >-
+  https://res-static.hc-cdn.cn/cloudbu-site/intl/zh-cn/YZR/On-Premise/PC-banner-32.jpg
+coverY: 0
 ---
 
 # ☁ Huawei Cloud

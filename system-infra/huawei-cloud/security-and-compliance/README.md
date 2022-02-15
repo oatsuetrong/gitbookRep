@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://www.huaweicloud.com/content/dam/cloudbu-site/archive/china/zh-cn/product/security/waf/image/WAF-banner.jpg
+coverY: 0
+---
+
 # Security & Compliance
 
 ## Anti-DDoS
