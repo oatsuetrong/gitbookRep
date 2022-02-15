@@ -2,7 +2,7 @@
 
 ## Campus Network Diagram
 
-![Fibre Optic Cable UTP Cable](<../../.gitbook/assets/network diagram\_bg.png>)
+![Fibre Optic Cable UTP Cable](<../../.gitbook/assets/network diagram.drawio (1).png>)
 
 ### Campus Firewall Diagram
 
@@ -10,7 +10,7 @@
 
 ### Headquarter Campus Network Diagram
 
-![Fibre Optic Cable UTP Cable](../../.gitbook/assets/hqd\_bg.png)
+![Fibre Optic Cable UTP Cable](<../../.gitbook/assets/Untitled Diagram.drawio.png>)
 
 ### Branch Campus Network Diagram
 
