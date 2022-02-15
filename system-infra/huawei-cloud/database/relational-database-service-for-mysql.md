@@ -4,4 +4,4 @@ Quickly deploy and scale RDS for MySQL on the cloud - a fully managed database s
 
 ![](<../../../.gitbook/assets/image (4) (1).png>)
 
-![](<../../../.gitbook/assets/image (13) (1).png>)
+![](<../../../.gitbook/assets/image (13) (1) (1).png>)

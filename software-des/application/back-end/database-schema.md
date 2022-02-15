@@ -1,6 +1,6 @@
 # Database Schema
 
-![Database Schema](<../../../.gitbook/assets/image (1).png>)
+![Database Schema](<../../../.gitbook/assets/image (1) (1).png>)
 
 For **database schema**, it consists of 7 tables:
 

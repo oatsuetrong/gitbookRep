@@ -1,8 +1,8 @@
-# Employee
+# Employee UI
 
 ## 1. Login Page
 
-![Login Page for all employees](<../../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1).png>)
+![Login Page for all employees](<../../../../.gitbook/assets/image (12) (1) (1) (1) (1) (1) (1).png>)
 
 ## 2. Dashboard Page
 
@@ -30,17 +30,19 @@
 
 ### 4.2 For other staffs
 
-![Customer Information Page for other staffs](<../../../../.gitbook/assets/image (5) (1) (1).png>)
+![Customer Information Page for other staffs](<../../../../.gitbook/assets/EXEC-Cus inf.png>)
 
 ## 5. Requesting for a Loan Page
 
 ![Requesting for a Loan Page](<../../../../.gitbook/assets/EMP-Request Loan Form.png>)
 
-## 6. Admin Page
+## 6. Editing Loan Information Page
 
-![Admin Page](<../../../../.gitbook/assets/image (1) (1).png>)
+## 7. Admin Page
 
-## 7. Log History Page
+![Admin Page](<../../../../.gitbook/assets/image (1) (1) (1).png>)
 
-![Log History Page](<../../../../.gitbook/assets/image (13) (1) (1) (1) (1).png>)
+## 8. Log History Page
+
+![Log History Page](<../../../../.gitbook/assets/image (13) (1) (1) (1) (1) (1).png>)
 

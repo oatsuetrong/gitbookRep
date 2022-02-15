@@ -1,4 +1,4 @@
-# Employee
+# Employee Flow
 
 ## 1. Add Customer
 
@@ -12,7 +12,7 @@
 
 ### For other staffs
 
-![See Customer Information & Machine Learning Suggestion flow for other staffs](<../../../../.gitbook/assets/image (16).png>)
+![See Customer Information & Machine Learning Suggestion flow for other staffs](<../../../../.gitbook/assets/image (16) (1).png>)
 
 ## 3. Request Loan
 
@@ -36,7 +36,7 @@
 
 ## 7. Change Employees' Role
 
-![Change Employees' Role](<../../../../.gitbook/assets/image (5).png>)
+![Change Employees' Role](<../../../../.gitbook/assets/image (5) (1).png>)
 
 ## 8. See Log History
 
