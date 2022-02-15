@@ -2,7 +2,7 @@
 
 ## Campus Network Diagram
 
-![Fibre Optic Cable UTP Cable](<../../.gitbook/assets/network diagram\_bg.png>)
+![Fibre Optic Cable UTP Cable](<../../.gitbook/assets/network diagram.drawio (1).png>)
 
 ## Campus Network Equipment
 
@@ -258,7 +258,7 @@ This table combine organization network equipment list that installed from Headq
 | DNA Center Appliance                |    1 |      214,000 |            214,000 |
 | ISE Server                          |    1 |   190,694.54 |         190,694.54 |
 | Border Node Switch                  |    2 |      180,000 |            360,000 |
-| Edge Node Switch                    |    4 |      119,800 |            479,200 |
+| Edge Node Switch                    |    3 |      119,800 |            359,400 |
 | Control Plane Node Switch           |    1 |      105,300 |            105,300 |
 | SFP+ modules                        |   12 |       10,900 |            130,800 |
 | Wireless Controller                 |    1 |       73,000 |             73,000 |
@@ -269,4 +269,4 @@ This table combine organization network equipment list that installed from Headq
 | CCTV 16 Cameras + Installation cost |    1 |       53,000 |             53,000 |
 | CCTV 8 Cameras + Installation cost  |    1 |       26,900 |             26,900 |
 
-**Summation Price:** 3,237,391.30 Baht
+**Summation Price:** 3,117,591.30 Baht
