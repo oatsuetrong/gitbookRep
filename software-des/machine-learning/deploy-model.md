@@ -7,8 +7,8 @@ description: >-
 
 # Deploy Model
 
-![](<../../.gitbook/assets/Screen Shot 2565-01-18 at 11.23.20 PM.png>)
+Retrain Model
 
-![](<../../.gitbook/assets/Screen Shot 2565-01-18 at 11.23.33 PM (2).png>)
-
-![](<../../.gitbook/assets/Screen Shot 2565-01-18 at 11.23.48 PM.png>)
+* Every 1 month​
+* Data from the Database​
+* Replace the old to the new
