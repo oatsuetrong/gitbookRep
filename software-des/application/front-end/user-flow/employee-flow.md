@@ -10,7 +10,7 @@ If the employee want to add the customer to our system, first they need to login
 
 ### For Help Desk
 
-![See & Edit Customer's Information flow for Help Desk](<../../../../.gitbook/assets/image (14) (1).png>)
+![See & Edit Customer's Information flow for Help Desk](<../../../../.gitbook/assets/image (14) (1) (1).png>)
 
 If the Help Desk want to see and edit the customer information in our system, first they need to login and then it will bring the Help Desk to the Dashboard page. After that, the Help Desk need to click at the customer's name and it will show the Customer Information Form that have the information. They can see and edit it.
 
@@ -27,6 +27,8 @@ If the other staffs want to see the customer's information in our system, first 
 If the employee want to request loan for the customer, first they need to login and then it will bring the employee to the Dashboard page. After that, the employee need to click at **Request** on the side menu and it will show the Loan Application Form to request loan.
 
 ## 4. Edit & Remove Loan
+
+![Edit & Remove Loan](<../../../../.gitbook/assets/image (14).png>)
 
 If the employee want to edit and remove loan, first they need to login and then it will bring the employee to the Dashboard page. After that, the employee need to click at the button on the customer's name. If they click **edit**, it will show Loan Application Form that have information and they can edit it. If they click **delete**, it will delete the requesting loan.
 

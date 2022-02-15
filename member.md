@@ -9,10 +9,10 @@
 
 ## System and Cloud Infrastructure Design
 
-| Student ID | Name                  | Responsibility |
-| ---------- | --------------------- | -------------- |
-| 610615009  | Noppawat Kengradomkit |                |
-| 610615016  | Santi Kaeudom         |                |
+| Student ID | Name                  | Responsibility                         |
+| ---------- | --------------------- | -------------------------------------- |
+| 610615009  | Noppawat Kengradomkit | System and Cloud Infrastructure Design |
+| 610615016  | Santi Kaeudom         | System and Cloud Infrastructure Design |
 
 ## Network Infrastructure Design
 

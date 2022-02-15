@@ -38,6 +38,8 @@
 
 ## 6. Editing Loan Information Page
 
+![Editing Loan Information Page](<../../../../.gitbook/assets/EMP-Request Loan Form With Mock Data.png>)
+
 ## 7. Admin Page
 
 ![Admin Page](<../../../../.gitbook/assets/image (1) (1) (1).png>)
