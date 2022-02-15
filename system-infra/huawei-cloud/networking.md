@@ -1,13 +1,25 @@
 # Networking
 
-Virtual Private Cloud​
+## Virtual Private Cloud​
 
-Elastic Load Balance​
+Virtual Private Cloud (VPC) enables you to create a secure, private, and isolated virtual network. You can customize IP address ranges, subnets, security groups, and bandwidths, and assign Elastic IP
 
-Virtual Private Network​
+## Elastic IP
 
-Elastic IP​
+The Elastic IP (EIP) service provides static public IP addresses and scalable bandwidths that enable your cloud resources to communicate with the Internet. You can easily bind an EIP to an ECS, BMS, virtual IP address, NAT gateway, or load balancer, enabling immediate Internet access.
 
-NAT Gateway​
+## Elastic Load Balance​
 
-Domain Name service
+Elastic Load Balance (ELB) automatically distributes incoming traffic across multiple servers to balance their workloads, increasing service capabilities and fault tolerance of your applications.
+
+## Virtual Private Network​
+
+Virtual Private Network (VPN) establishes a secure, encrypted communication tunnel between your local data center and your VPC on HUAWEI CLOUD. With VPN, you can build a flexible and scalable hybrid cloud environment.
+
+## NAT Gateway​
+
+A public NAT gateway allows cloud servers in a VPC to share EIPs for Internet access, which keeps costs down while also improving security by hiding your servers behind EIPs. A private NAT gateway translates IP addresses between your VPC and your on-premises data center or another VPC, allowing you to keep legacy networks unchanged after migrating some of your workloads to the cloud.
+
+## Domain Name service
+
+Domain Name Service (DNS) is a highly available and scalable authoritative DNS service that translates domain names into IP addresses, reliably directing end users to your applications.
