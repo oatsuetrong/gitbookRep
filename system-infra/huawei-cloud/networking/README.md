@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/Screenshot 2022-02-16 011435.png
+coverY: 0
+---
+
 # Networking
 
 ## Virtual Private Cloud​
