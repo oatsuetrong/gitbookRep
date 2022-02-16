@@ -28,7 +28,7 @@
 
 * [☁ Huawei Cloud](system-infra/huawei-cloud.md)
   * [Application](system-infra/huawei-cloud/application/README.md)
-    * [Software Repository for Container](system-infra/huawei-cloud/application/software-repository-for-container.md)
+    * [SoftWare Repository for Container](system-infra/huawei-cloud/application/software-repository-for-container.md)
   * [Storage](system-infra/huawei-cloud/storage/README.md)
     * [Object Storage Service​](system-infra/huawei-cloud/storage/object-storage-service.md)
     * [Cloud Backup and Recovery](system-infra/huawei-cloud/storage/cloud-backup-and-recovery.md)
@@ -39,7 +39,7 @@
     * [Cloud Eye​](system-infra/huawei-cloud/management-and-governance/cloud-eye.md)
     * [Cloud Trace Service​](system-infra/huawei-cloud/management-and-governance/cloud-trace-service.md)
     * [Log Tank Service](system-infra/huawei-cloud/management-and-governance/log-tank-service.md)
-    * [IAM​](system-infra/huawei-cloud/management-and-governance/iam.md)
+    * [Identity and Access Management](system-infra/huawei-cloud/management-and-governance/identity-and-access-management.md)
   * [Security & Compliance](system-infra/huawei-cloud/security-and-compliance/README.md)
   * [Compute](system-infra/huawei-cloud/compute/README.md)
     * [Elastic Cloud Server](system-infra/huawei-cloud/compute/elastic-cloud-server/README.md)

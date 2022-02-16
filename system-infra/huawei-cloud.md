@@ -13,4 +13,4 @@ Choose Huawei because it has servers in Thailand so it use cloud services quickl
 
 ![System Diagram](<../.gitbook/assets/image (12) (2).png>)
 
-> This diagram shows the services we use from the Huawei cloud.
+This diagram shows the services we use from the Huawei cloud.

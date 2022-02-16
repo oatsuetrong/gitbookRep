@@ -6,4 +6,4 @@
 * OBS 184.59 USD per year​
 * Office 365 150 USD per year / user \* 80 people = 12,000 USD​
 
-Total estimate cost 15,216 USD per year = 502,128 Baht per year​
+**Total Estimate Cost** 15,216 USD per year = 502,128 Baht per year​
