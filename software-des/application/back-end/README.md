@@ -21,6 +21,12 @@ Reference:
 
 Relational Database Service for MySQL (RDS for MySQL) is a fully managed database service powered by the world’s most popular enterprise-grade open-source relational database system.
 
+For more detail:
+
+{% content-ref url="../../../system-infra/huawei-cloud/database/relational-database-service-for-mysql.md" %}
+[relational-database-service-for-mysql.md](../../../system-infra/huawei-cloud/database/relational-database-service-for-mysql.md)
+{% endcontent-ref %}
+
 Reference:
 
 * [https://www.huaweicloud.com/intl/en-us/product/mysql.html](https://www.huaweicloud.com/intl/en-us/product/mysql.html)
@@ -57,4 +63,3 @@ Reference:
 
 * [https://www.w3schools.com/php/](https://www.w3schools.com/php/)
 * [https://saixiii.com/what-is-php/](https://saixiii.com/what-is-php/)
-
