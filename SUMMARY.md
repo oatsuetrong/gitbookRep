@@ -7,7 +7,6 @@
 
 * [🦈 Application](software-des/application/README.md)
   * [Front-End](software-des/application/front-end/README.md)
-    * [Development Tools](software-des/application/front-end/development-tools.md)
     * [User Interface Design](software-des/application/front-end/user-interface-design/README.md)
       * [Employee UI](software-des/application/front-end/user-interface-design/employee-ui.md)
       * [Customer UI](software-des/application/front-end/user-interface-design/customer-ui.md)
