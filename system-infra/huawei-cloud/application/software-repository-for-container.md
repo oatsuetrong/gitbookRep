@@ -8,12 +8,8 @@ cover: >-
 coverY: 0
 ---
 
-# SoftWare Repository for Container
+# Software Repository for Container
 
 SoftWare Repository for Container (SWR) allows you to easily manage the full lifecycle of container images and facilitates secure deployment of images for your applications.
 
 We use this service with Cloud Container Engine for website deployment.
-
-Reference:
-
-[https://www.huaweicloud.com/intl/en-us/product/swr.html](https://www.huaweicloud.com/intl/en-us/product/swr.html)

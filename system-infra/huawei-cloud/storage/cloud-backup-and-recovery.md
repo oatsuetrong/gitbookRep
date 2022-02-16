@@ -15,4 +15,4 @@ Cloud Backup and Recovery (CBR) lets you back up cloud servers, disks, and on-pr
 
 Reference:
 
-[https://www.huaweicloud.com/intl/en-us/product/cbr.html](https://www.huaweicloud.com/intl/en-us/product/swr.html)
+[https://www.huaweicloud.com/intl/en-us/product/cbr.html](https://www.huaweicloud.com/intl/en-us/product/cbr.html)

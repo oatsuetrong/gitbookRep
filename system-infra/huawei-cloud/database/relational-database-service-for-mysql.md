@@ -10,3 +10,7 @@ Quickly deploy and scale RDS for MySQL on the cloud - a fully managed database s
 ![](<../../../.gitbook/assets/image (4) (1).png>)
 
 ![](<../../../.gitbook/assets/image (13) (1).png>)
+
+Reference:
+
+[https://www.huaweicloud.com/intl/en-us/product/mysql.html](https://www.huaweicloud.com/intl/en-us/product/mysql.html)
