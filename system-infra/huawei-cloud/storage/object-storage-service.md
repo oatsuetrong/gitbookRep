@@ -14,3 +14,7 @@ Object Storage Service (OBS) provides stable, secure, efficient, and easy-to-use
 
 
 ![](<../../../.gitbook/assets/image (13) (1) (1).png>)
+
+Reference:
+
+[https://www.huaweicloud.com/intl/en-us/product/obs.html](https://www.huaweicloud.com/intl/en-us/product/swr.html)
